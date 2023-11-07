@@ -1,36 +1,19 @@
 {% include cool_header.html %}
-### AGH UST Kraków
+### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
-# Cząstki Elementarne i Oddziaływania - semestr letni 2023
+# Model Standardowy 
 
 ## HOT NEWS! 
-<!--
-- Egzamin odbędzie się 20 czerwca o godzinie 11:15 w sali 108 D10.
-- W dniach 6-10 czerwca 2022 r. w murach naszej Uczelni odbędzie się XIV Międzynarodowa Konferencja BEACH 2022, organizowanej przez zespół LHCb z Katedry Oddziaływań i Detekcji Cząstek WFiIS AGH. [Zapraszamy!](https://www.agh.edu.pl/konferencje/konferencja/article/beach-2022/)
-- Magic beauty charmless decays: [przeczytaj ](https://lhcb-outreach.web.cern.ch/2022/03/17/magic-beauty-charmless-decays/)
--->
 
 ## WYKŁADY
-- Wprowadzenie [wykład](Files/wyklad_1_Introduction.pdf)
-- Relatywistyka [wykład](Files/wyklad_2_relatywistyka.pdf)
-- Wiązki, zderzenia, rozpady [wykład](Files/wyklad_3_zderzenia.pdf)
-- Złota Reguła Fermiego [wykład](Files/wyklad_4_FGR.pdf)
-- Oddziaływania elektromagnetycze [wykład](Files/wyklad_4_QED.pdf)
-- Źródła cząstek o wysokich energiach  [wykład](Files/wyklad_4_zrodla.pdf)
-- Rozpraszanie elektron-proton [wykład](Files/wyklad_5_ep.pdf)
-- Model Kwarkowy [wykład](Files/wyklad_7_ModelKwarkowy.pdf) [problemy](Files/Zadania_2022_3.pdf)
-- Oddziaływania słabe i elektrosłabe [wykład](Files/wyklad_10_EW.pdf)
-- Oddziaływania silne [wykład](Files/wyklad_9_silne.pdf),  [prezentacja Jakuba](Files/wykład-QCD-JWojnarowski.pdf)
-- Charm & Beauty [wykład](Files/wyklad_8_CB.pdf),  [Beauty Przemka](Files/Beauty_PRys.pdf), [Produkcja Charmu Patryka](Files/CB_production_PPrus.pdf), [Rezonanse Mateusza](Files/MateuszKuligCharmRezonanse.pdf)
-- Fizyka na LHC [wykład](Files/LHC_Higgs.pdf), [Higgsy Filipa](Files/CEiO_Higgs_FBaran.pdf)
-- Oscylacje zapachu [wykład](Files/Flavour_oscillations.pdf)
+- Relatywistyka
+- Obroty i grupy
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Zadania_2022_1.pdf)
 - Zderzenia [Zadania](Files/Zadania_2.pdf) na 26.04 (środa)
 - Ekperymentalne aspekty Modelu Standardowego [Zadania](Files/Zadania_2022_4.pdf) na 17.05 (środa)
 
-### Zagadnienia do egzaminu: [tutaj](Files/zagadnienia.pdf)
 
 ## Literatura:
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
@@ -38,24 +21,13 @@
 - David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
-<!--
-- Oddziaływania słabe i elektrosłabe [wykład](Files/wyklad_10_EW.pdf)
-- Fizyka na LHC [wykład](Files/wyklad_11_LHC_Higgs.pdf)
-- Oscylacje zapachu [wykład](Files/Flavour_oscillations.pdf)
--->
 
-## LABORATORIUM
+## LABORATORIU
 - ROOT - różne techniki analizy na przykładzie rozpadu $J/\Psi$ na parę mionów (_taurus:/home/staff/mucha/Public/CEO_)
 - Generacja przykładowego rozpadu: [zadanie](Files/Lab_CEO_TGenPS.pdf) - termin oddania: 28.05.2023
 
 ## PROJEKT
-- Skąd się biorą cząstki w pliku z danymi? [Reconstruction](Files/LAB_reconstruction.pptx)
-- Identyfikacja cząstek w eksperymencie LHCb [Identyfikacja](Files/Identyfikacja.pdf)
-- Zadanie projektowe: Rekonstrukcja masy i wyznaczenie czasu życia mezonu $K^0_s$ i $\Lambda$ z danych zebranych przez eksperyment LHCb 
-    1. Pliki z danymi umieszczone są w katalogu _taurus:/home/staff/mucha/Public/CEO/Projekt_
-    2. Środowisko pracy: przeczytaj poniżej o dedykowanej instalacji VM i ROOTa
-    3. Instrukcje, dane i przykłady rozwiązań zamieszczone są na współdzielonym dysku (AGH Google) CEO-2023
- - Termin oddania: 25.06.2023
+
 
 
 ### ROOT 
@@ -65,14 +37,8 @@
  - Examples with DataFrame [here](https://root.cern/doc/master/classROOT_1_1RDataFrame.html)
  - PyROOT Workshop z 2022, [zobacz](https://indico.cern.ch/event/882824/contributions/3929999/)
  
-<!--
- - Some old pages:
-   - [ROOT - basis](https://root.cern.ch/root/htmldoc/guides/primer/ROOTPrimer.html) or [primer](https://root.cern/primer/)
-   - let's dive into ROOT from [here](https://root.cern.ch/root/htmldoc/guides/primer/ROOTPrimerLetter.pdf)
-   - HASCO lectures and examples [2]:
-       - [here](https://indico.cern.ch/event/704163/contributions/2936719/) (.cpp and .py examples)
-       - [there](https://indico.cern.ch/event/788195/contributions/3364842/) (also .ipynb examples)
--->
+
+
  
 ### Working environment 
 HEP analyses usually require [ROOT framework](https://root.cern/). 
@@ -83,14 +49,6 @@ HEP analyses usually require [ROOT framework](https://root.cern/).
 - używać ROOTa poprzez Google Collab: konfiguracja środowiska pracy podczas pracy w laboratorium WFiIS jest tutaj: [instrukcja](Files/WorkingEnv)
 - używać ROOTAa na swoim lokalnym komputerze po zajęciach logując się na komputer w 204, instrukcja jest [tutaj](https://agile.fis.agh.edu.pl/confluence/pages/viewpage.action?pageId=28837229)
 
-
-
-<!--
-- upload our VM and become a happy user of well-configured VM, `ROOT` and `conda` application:<br>
-   - [description](https://indico.fis.agh.edu.pl/event/1/contributions/88/attachments/62/102/Hands-on-WorkEnv.pdf),<br>
-   - [Ubuntu VM from AGH Google Suite](https://drive.google.com/file/d/1fCczgh12l2z8Af-JJszyJlv-Tt14365z/view).
-- "our" students can use our group server `lhcbd1` (access through `taurus.fis.agh.edu.pl`), you have both ROOT framowork, conda environment and data sets, see [here](lhcbd1.md),
--->
 
 ### How to start with Jupyter Notebook
 - start with reading [this](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
