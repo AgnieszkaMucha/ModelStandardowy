@@ -1,18 +1,16 @@
 {% include cool_header.html %}
 ### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
-# Model Standardowy 
 
-## HOT NEWS! 
+# Wstęp do Modelu Standardowego (FT1) 
 
 ## WYKŁADY
 - Relatywistyka
 - Obroty i grupy
+- Lagranżiany
 
 ## ĆWICZENIA
-- Relatywistyka  [Zadania](Files/Zadania_2022_1.pdf)
-- Zderzenia [Zadania](Files/Zadania_2.pdf) na 26.04 (środa)
-- Ekperymentalne aspekty Modelu Standardowego [Zadania](Files/Zadania_2022_4.pdf) na 17.05 (środa)
+- Relatywistyka  [Zadania](Files/Relatywistyka_MS.pdf)
 
 
 ## Literatura:
@@ -22,13 +20,11 @@
 - Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
 
-## LABORATORIU
-- ROOT - różne techniki analizy na przykładzie rozpadu $J/\Psi$ na parę mionów (_taurus:/home/staff/mucha/Public/CEO_)
-- Generacja przykładowego rozpadu: [zadanie](Files/Lab_CEO_TGenPS.pdf) - termin oddania: 28.05.2023
+
 
 ## PROJEKT
 
-
+# Model Standardowy (FT2)
 
 ### ROOT 
  You can find a plethora of ROOT tutorials:
@@ -38,6 +34,8 @@
  - PyROOT Workshop z 2022, [zobacz](https://indico.cern.ch/event/882824/contributions/3929999/)
  
 
+## LABORATORIUM
+- ROOT - różne techniki analizy na przykładzie rozpadu $J/\Psi$ na parę mionów (_taurus:/home/staff/mucha/Public/CEO_)
 
  
 ### Working environment 
