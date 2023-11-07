@@ -2,7 +2,7 @@
 ### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
 
-# Wstęp do Modelu Standardowego (FT1) 
+# Wstęp do Modelu Standardowego (FT1 2023) 
 
 ## WYKŁADY
 - Relatywistyka
@@ -14,18 +14,21 @@
 
 
 ## Literatura:
-- 
+- W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
+- Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
+- Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
 - David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
-
-
-
 ## PROJEKT
 
-# Model Standardowy (FT2)
+# Model Standardowy (FT2 2024)
+
+.... 2024....
+
+# Składzik z narzędziami
 
 ### ROOT 
  You can find a plethora of ROOT tutorials:
