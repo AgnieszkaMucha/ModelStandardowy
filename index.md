@@ -15,11 +15,11 @@
 
 ## Literatura:
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
+- David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
 - Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
-- David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
 ## PROJEKT
@@ -33,7 +33,7 @@
 ### ROOT 
  You can find a plethora of ROOT tutorials:
  - Very recent [Manual](https://root.cern/manual/basics/)
- - Very clear and quite new tutorial with C++ and Pyhon [here](https://www.nevis.columbia.edu/~seligman/root-class/RootClass2021.pdf)
+ - Very clear and quite new tutorial with C++ and Python [here](https://www.nevis.columbia.edu/~seligman/root-class/RootClass2021.pdf)
  - Examples with DataFrame [here](https://root.cern/doc/master/classROOT_1_1RDataFrame.html)
  - PyROOT Workshop z 2022, [zobacz](https://indico.cern.ch/event/882824/contributions/3929999/)
  
