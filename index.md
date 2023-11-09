@@ -10,7 +10,7 @@
 - Lagranżiany
 
 ## ĆWICZENIA
-- Relatywistyka  [Zadania](Files/Relatywistyka_MS.pdf)
+- Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
 
 
 ## Literatura:
