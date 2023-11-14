@@ -17,6 +17,7 @@
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
 - David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Sylvie Braibant, Giorgio Giacomelli, Maurizio Spurio "Particles and Fundamental Interactions: An Introduction to Particle Physics" 2011
+- Martinus Veltman "Facts and Mysteries in Elementary Particle Physics" World Scientific Publishing Co. Pte. Ltd. 2003
 - Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
 - Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
