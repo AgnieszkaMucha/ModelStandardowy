@@ -7,7 +7,7 @@
 ## WYKŁADY
 - Relatywistyka
 - Obroty i grupy
-- Lagranżiany
+- Lagranżiany {slajdy](/FILES/MS_1.pdf)
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
