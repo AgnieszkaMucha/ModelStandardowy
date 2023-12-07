@@ -8,9 +8,11 @@
 - Relatywistyka
 - Obroty i grupy
 - Lagranżiany [slajdy](/Files/MS_1.pdf)
+- Równanie Diraca [slajdy](/Files/Dirac_equation.pdf)
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
+- Wybrane aspekty teori pola, symetri i grup [Zadania](Files/Pola_MS1.pdf)
 
 
 ## Literatura:
