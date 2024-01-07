@@ -9,10 +9,12 @@
 - Obroty i grupy
 - Lagranżiany [slajdy](/Files/MS_1.pdf)
 - Równanie Diraca [slajdy](/Files/Dirac_equation.pdf)
+- Przekrój czynny, oddziaływania elektromagnetyczne
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
 - Wybrane aspekty teori pola, symetri i grup [Zadania](Files/Pola_MS1.pdf)
+- Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 
 
 ## Literatura:
