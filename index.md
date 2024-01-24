@@ -9,7 +9,7 @@
 - Obroty i grupy
 - Lagranżiany [slajdy](/Files/MS_1.pdf)
 - Równanie Diraca [slajdy](/Files/Dirac_equation.pdf)
-- Przekrój czynny, oddziaływania elektromagnetyczne
+- Przekrój czynny, oddziaływania elektromagnetyczne  [slajdy](/Files/MS_PrzekrojCzynny.pdf)
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
