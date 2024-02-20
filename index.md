@@ -35,7 +35,15 @@
 # Model Standardowy (FT2 2024)
 
 ## WYKŁADY
-- Czym różni się kurs **Model Standardowy** od kursu **Oddziaływania cząstek elementarnych**?
+- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*?
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych)
+- Relatywistyka
+- Oddziałyeania elektromagnetyczne
+- Oddziaływania silne
+- Oddziaływania elektrosłabe
+- Spontaniczne łamanie symetrii i bozon Higgsa
+- Precyzyjne pomiary Modelu Standardowego
+  
 ## Literatura:
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
 - David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
