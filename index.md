@@ -27,9 +27,7 @@
 - Martinus Veltman "Facts and Mysteries in Elementary Particle Physics" World Scientific Publishing Co. Pte. Ltd. 2003
 - Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
 - Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
-- Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
-- Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
 ## PROJEKT
 -->
@@ -47,9 +45,8 @@
 - Martinus Veltman "Facts and Mysteries in Elementary Particle Physics" World Scientific Publishing Co. Pte. Ltd. 2003
 - Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
 - Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
-- Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
-- Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
+
 
  ## LABORATORIUM
  
