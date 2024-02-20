@@ -2,6 +2,7 @@
 ### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
 
+<!--
 # Wstęp do Modelu Standardowego (FT1 2023) 
 
 ## WYKŁADY
@@ -31,10 +32,28 @@
 - Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
 
 ## PROJEKT
+-->
 
 # Model Standardowy (FT2 2024)
 
-.... 2024....
+## WYKŁADY
+
+## Literatura:
+- W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
+- David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
+- Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
+- B.R. Martin G.Shaw "Particle Physics", 3rd Ed, Wiley 2008
+- Sylvie Braibant, Giorgio Giacomelli, Maurizio Spurio "Particles and Fundamental Interactions: An Introduction to Particle Physics" 2011
+- Martinus Veltman "Facts and Mysteries in Elementary Particle Physics" World Scientific Publishing Co. Pte. Ltd. 2003
+- Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
+- Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
+- Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
+- Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
+- Donald H. Perkins "Introduction to High Energy Physics" (4th ed.) Cambridge University Press, 2000 [resources](doi:10.1017/CBO9780511809040)
+
+ ## LABORATORIUM
+ 
+
 
 # Składzik z narzędziami
 
@@ -44,11 +63,6 @@
  - Very clear and quite new tutorial with C++ and Python [here](https://www.nevis.columbia.edu/~seligman/root-class/RootClass2021.pdf)
  - Examples with DataFrame [here](https://root.cern/doc/master/classROOT_1_1RDataFrame.html)
  - PyROOT Workshop z 2022, [zobacz](https://indico.cern.ch/event/882824/contributions/3929999/)
- 
-
-## LABORATORIUM
-- ROOT - różne techniki analizy na przykładzie rozpadu $J/\Psi$ na parę mionów (_taurus:/home/staff/mucha/Public/CEO_)
-
  
 ### Working environment 
 HEP analyses usually require [ROOT framework](https://root.cern/). 
