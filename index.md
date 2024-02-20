@@ -47,8 +47,7 @@
 - Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
 
- ## LABORATORIUM
- 
+## Laboratorium
 Oscylacje flavouru
 
 # Składzik z narzędziami
