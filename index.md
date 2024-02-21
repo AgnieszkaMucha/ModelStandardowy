@@ -37,8 +37,8 @@
 ## WYKŁADY
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*?
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych)
+- Relatywistyka 
 - Lagrangiany i zasada najmniejszego działania
-- Relatywistyka
 - Oddziaływania elektromagnetyczne
 - Oddziaływania silne
 - Oddziaływania elektrosłabe
