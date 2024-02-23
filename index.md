@@ -39,11 +39,13 @@
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych)
 - Relatywistyka 
 - Lagrangiany i zasada najmniejszego działania
+- Równanie Diraca
 - Oddziaływania elektromagnetyczne
 - Oddziaływania silne
 - Oddziaływania elektrosłabe
 - Spontaniczne łamanie symetrii i bozon Higgsa
 - Precyzyjne pomiary Modelu Standardowego
+- Łamanie parzystości CP w rozpadach mezonów 
   
 ## Literatura:
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
