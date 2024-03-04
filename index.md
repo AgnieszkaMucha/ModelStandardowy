@@ -35,8 +35,8 @@
 # Model Standardowy (FT2 2024)
 
 ## WYKŁADY
-- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*?
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych)
+- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_2.pdf)
 - Relatywistyka 
 - Lagrangiany i zasada najmniejszego działania
 - Równanie Diraca
