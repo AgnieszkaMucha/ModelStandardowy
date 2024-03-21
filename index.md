@@ -38,7 +38,7 @@
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_2.pdf)
 - Relatywistyka 
-- Lagrangiany i zasada najmniejszego działania
+- Lagrangiany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_4.pdf)
 - Równanie Diraca
 - Oddziaływania elektromagnetyczne
 - Oddziaływania silne
