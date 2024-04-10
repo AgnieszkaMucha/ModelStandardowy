@@ -39,7 +39,7 @@
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_2.pdf)
 - Relatywistyka 
 - Lagrangiany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_4.pdf)
-- Równanie Diraca
+- Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne
 - Oddziaływania silne
 - Oddziaływania elektrosłabe
