@@ -64,6 +64,7 @@
 - Narzedzia statystyczne - ROOFit [manual](https://root.cern/download/roofit-strasbourg-v10.pdf)
 - Pakiet do analizy - zFit [tutorial](https://zfit-tutorials.readthedocs.io/en/main/tutorials/introduction/README.html)
 
+<!--
 # Składzik z narzędziami
 
 ### ROOT 
@@ -99,7 +100,7 @@ HEP analyses usually require [ROOT framework](https://root.cern/).
 - Have a look at [PyROOT](https://root.cern/manual/python/) webpage.
 
 
-<!--
+
 
 ## PROJEKT
 - Skąd się biorą cząstki w pliku z danymi? [Reconstruction](Files/LAB_reconstruction.pptx)
