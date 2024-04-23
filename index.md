@@ -149,10 +149,7 @@ D mesons contain charm quark. The lighter D<sup>+</sup> meson contains also one 
    - Choose one mode of D meson decay, select candidates,
    - plot distribution of mass and life-time,
    - make fits and compare parameters with theory.
--->   
-
-
 
 [1] LHCb Detector Performance, LHCb Collaboration, Roel Aaij et al. (Dec 19, 2014) [Int.J.Mod.Phys.A 30 (2015) 07, 1530022](https://arxiv.org/abs/1412.6352) <br>
 [2] Hadron Collider Physics Summer School - [HASCO](http://hasco.uni-goettingen.de/)
-
+-->  
