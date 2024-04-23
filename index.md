@@ -62,7 +62,7 @@
 ## Laboratorium
 - Oscylacje flavouru [program Pawła](/Files/Oscilation.zip)
 - Narzedzia statystyczne - ROOFit [manual](https://root.cern/download/roofit-strasbourg-v10.pdf)
-- Pakiet do analizy - zFit [tutorial](https://zfit-tutorials.readthedocs.io/en/latest/)   lub wstęp [tutaj](https://github.com/zfit/zfit)
+- Pakiet do analizy - zFit [tutorial](https://zfit-tutorials.readthedocs.io/en/latest/)   lub wstęp [tutaj](https://github.com/zfit/zfit) lub [artykuł](https://arxiv.org/abs/1910.13429)
 - O minimalizacji Minuitem poczytaj [tutaj](https://indico.cern.ch/event/833895/contributions/3577808/attachments/1927550/3191336/iminuit_intro.html)
 
 <!--
