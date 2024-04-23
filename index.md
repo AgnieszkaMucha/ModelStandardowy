@@ -61,6 +61,8 @@
 
 ## Laboratorium
 Oscylacje flavouru [program Pawła](/Files/Oscilation.zip)
+narzedzia statystyczne - ROOFit [manual](https://root.cern/download/roofit-strasbourg-v10.pdf)
+zFit [tutorial](https://zfit-tutorials.readthedocs.io/en/main/tutorials/introduction/README.html)
 
 # Składzik z narzędziami
 
