@@ -42,9 +42,9 @@
 - Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_6.pdf)
 - Oscylacje zapachu [slajdy](/Files/FT2_MS_7.pdf)
+- Oddziaływania silne
 - Oddziaływania elektrosłabe
 - Spontaniczne łamanie symetrii i bozon Higgsa
-- Oddziaływania silne
 - Precyzyjne pomiary Modelu Standardowego
 
   
