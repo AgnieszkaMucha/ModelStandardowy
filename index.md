@@ -2,15 +2,16 @@
 ### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
 
-<!--
-# Wstęp do Modelu Standardowego (FT1 2023) 
+
+# Wstęp do Modelu Standardowego (FT1 2024) 
 
 ## WYKŁADY
-- Relatywistyka
-- Obroty i grupy
-- Lagranżiany [slajdy](/Files/MS_1.pdf)
-- Równanie Diraca [slajdy](/Files/Dirac_equation.pdf)
-- Przekrój czynny, oddziaływania elektromagnetyczne  [slajdy](/Files/MS_PrzekrojCzynny.pdf)
+- O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf)
+- Relatywistyka [slajdy](/Files/WMS_2.pdf)
+- Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
+- Lagranżiany 
+- Równanie Diraca 
+- Przekrój czynny, oddziaływania elektromagnetyczne  
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
@@ -30,7 +31,7 @@
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
 
 ## PROJEKT
--->
+
 
 # Model Standardowy (FT2 2024)
 
