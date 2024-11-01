@@ -7,11 +7,13 @@
 
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf)
-- Relatywistyka [slajdy](/Files/WMS_2.pdf)
-- Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
+- Relatywistyka [slajdy cz.2 Pole elm ](/Files/WMS_Pola.pdf)
 - Lagranżiany 
-- Równanie Diraca 
-- Przekrój czynny, oddziaływania elektromagnetyczne  
+- Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
+- Oddziaływania elektromagnetyczne
+- Równanie Diraca
+- Neutrina
+- Przekrój czynny,   
 
 ## ĆWICZENIA
 - Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
