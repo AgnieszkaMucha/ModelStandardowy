@@ -16,8 +16,7 @@
 - Przekrój czynny,   
 
 ## ĆWICZENIA
-- Relatywistyka  [Zadania](Files/Relatywistyka_MS1.pdf)
-- Wybrane aspekty teori pola, symetri i grup [Zadania](Files/Pola_MS1.pdf)
+- Relatywistyka i pola [Zadania](Files/Rel_pola.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 
 
