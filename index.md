@@ -11,7 +11,7 @@
 - Lagranżiany 
 - Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
 - Oddziaływania elektromagnetyczne
-- Równanie Diraca
+- Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
 - Neutrina
 - Przekrój czynny,   
 
