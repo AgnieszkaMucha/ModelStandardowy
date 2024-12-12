@@ -12,7 +12,7 @@
 - Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
 - Oddziaływania elektromagnetyczne
 - Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
-- Neutrina
+- Neutrina [slajdy](/Files/Neutrina.pdf)
 - Przekrój czynny,   
 
 ## ĆWICZENIA
