@@ -16,7 +16,7 @@
 - Przekrój czynny,   
 
 ## ĆWICZENIA
-- Relatywistyka i pola [Zadania na 20.11.2024](Files/Rel_pola.pdf)
+- Relatywistyka i pola [Zadania na 20.11. i 18.12.2024 ](Files/Rel_pola.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 
 
