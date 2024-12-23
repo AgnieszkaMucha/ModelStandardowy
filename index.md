@@ -13,6 +13,7 @@
 - Oddziaływania elektromagnetyczne
 - Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
 - Neutrina [slajdy](/Files/Neutrina.pdf)
+- Oscylacje zapachu [slajdy](/Files/MS1_quarks_oscillation.pdf)
 - Przekrój czynny,   
 
 ## ĆWICZENIA
