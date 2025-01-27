@@ -14,7 +14,8 @@
 - Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
 - Neutrina [slajdy](/Files/Neutrina.pdf)
 - Oscylacje zapachu [slajdy](/Files/MS1_quarks_oscillation.pdf)
-- Przekrój czynny,   
+- Przekrój czynny [slajdy](/Files/MS1_cross_section.pdf)
+- Multiplety [slajdy](/Files/MS1_multiplety.pdf)
 
 ## ĆWICZENIA
 - Relatywistyka i pola [Zadania na 20.11. i 18.12.2024 ](Files/Rel_pola.pdf)
