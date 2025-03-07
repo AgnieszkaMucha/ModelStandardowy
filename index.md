@@ -2,11 +2,14 @@
 ### AGH University of Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
 
+# Hot news:
+Zapraszam na Third Hyperon Charm Workshop: https://indico.cern.ch/event/1503585/timetable/#20250310.detailed. Szzcególnie na sesje we wtorek 11.03. (D11/216).
 
-# Wstęp do Modelu Standardowego (FT1 2024) 
+# Wstęp do Modelu Standardowego (FT1 2025) 
 
 ## WYKŁADY
-- O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf)
+- O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
+
 <!--
   
 - Relatywistyka [slajdy cz.2 Pole elm ](/Files/WMS_Pola.pdf)
@@ -18,7 +21,9 @@
 - Oscylacje zapachu [slajdy](/Files/MS1_quarks_oscillation.pdf)
 - Przekrój czynny [slajdy](/Files/MS1_cross_section.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
+
 -->
+
 ## ĆWICZENIA
 - Relatywistyka i pola [Zadania na 20.11. i 18.12.2024 ](Files/Rel_pola.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
@@ -38,7 +43,7 @@
 ## PROJEKT
 
 
-# Model Standardowy (FT2 2024)
+# Model Standardowy (FT2 2025)
 
 ## WYKŁADY
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
