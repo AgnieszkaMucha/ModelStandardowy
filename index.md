@@ -7,6 +7,8 @@
 
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf)
+<!--
+  
 - Relatywistyka [slajdy cz.2 Pole elm ](/Files/WMS_Pola.pdf)
 - Lagranżiany 
 - Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
@@ -16,7 +18,7 @@
 - Oscylacje zapachu [slajdy](/Files/MS1_quarks_oscillation.pdf)
 - Przekrój czynny [slajdy](/Files/MS1_cross_section.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
-
+-->
 ## ĆWICZENIA
 - Relatywistyka i pola [Zadania na 20.11. i 18.12.2024 ](Files/Rel_pola.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
