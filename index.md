@@ -3,7 +3,7 @@
 ### Wydział Fizyki i Informatyki Stosowanej
 
 # Hot news:
-Zapraszam na Third Hyperon Charm Workshop: https://indico.cern.ch/event/1503585/timetable/#20250310.detailed. Szzcególnie na sesje we wtorek 11.03. (D11/216).
+Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event/1503585/timetable/#20250310.detailed). Szczególnie na sesje we wtorek 11.03. (D11/216).
 
 # Wstęp do Modelu Standardowego (FT1 2025) 
 
