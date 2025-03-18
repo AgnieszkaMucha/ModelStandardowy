@@ -10,19 +10,15 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżiany 
-<!--
-  
-- Relatywistyka [slajdy cz.2 Pole elm ](/Files/WMS_Pola.pdf)
-
-- Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
+- Relatywistyka [slajdy](!/Files/WMS_Pola.pdf)
+- Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Oddziaływania elektromagnetyczne
-- Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
-- Neutrina [slajdy](/Files/Neutrina.pdf)
-- Oscylacje zapachu [slajdy](/Files/MS1_quarks_oscillation.pdf)
-- Przekrój czynny [slajdy](/Files/MS1_cross_section.pdf)
-- Multiplety [slajdy](/Files/MS1_multiplety.pdf)
+- Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
+- Neutrina [slajdy](!/Files/Neutrina.pdf)
+- Oscylacje zapachu [slajdy](!/Files/MS1_quarks_oscillation.pdf)
+- Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
+- Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
 
--->
 
 ## ĆWICZENIA
 - Relatywistyka i pola [Zadania](Files/Rel_pola.pdf)
@@ -47,14 +43,14 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 ## WYKŁADY
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](!/Files/FT2_MS_1.pdf)
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_2.pdf)
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
 - Relatywistyka 
-- Lagrangiany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_4.pdf)
-- Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
-- Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_6.pdf)
-- Oscylacje zapachu [slajdy](/Files/FT2_MS_7.pdf)
-- Oddziaływania silne [slajdy](/Files/MS_QCD-notes.pdf)
-- Oddziaływania elektrosłabe [slajdy](/Files/FT2_MS_9.pdf)
+- Lagrangiany i zasada najmniejszego działania [slajdy](!/Files/FT2_MS_4.pdf)
+- Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
+- Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_6.pdf)
+- Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
+- Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
+- Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
 - Spontaniczne łamanie symetrii i bozon Higgsa
 - Precyzyjne pomiary Modelu Standardowego
 
