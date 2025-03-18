@@ -9,11 +9,11 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
-
+- Lagranżiany 
 <!--
   
 - Relatywistyka [slajdy cz.2 Pole elm ](/Files/WMS_Pola.pdf)
-- Lagranżiany 
+
 - Obroty i grupa U(1) [slajdy](/Files/WMS_3.pdf)
 - Oddziaływania elektromagnetyczne
 - Równanie Diraca  [slajdy](/Files/FT2_MS_5.pdf)
@@ -46,7 +46,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 # Model Standardowy (FT2 2025)
 
 ## WYKŁADY
-- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
+- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](!/Files/FT2_MS_1.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_2.pdf)
 - Relatywistyka 
 - Lagrangiany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_4.pdf)
