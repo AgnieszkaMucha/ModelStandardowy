@@ -43,7 +43,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 ## WYKŁADY
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
-- Lagranżjany, Hamiltoniany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_Lag_Ham.pdf)
+- Lagranżjany, Hamiltoniany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_Lagr_Ham.pdf)
 - Relatywistyka
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
 - Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
