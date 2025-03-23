@@ -9,8 +9,8 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
-- Lagranżiany 
-- Relatywistyka [slajdy](!/Files/WMS_Pola.pdf)
+- Lagranżjany 
+- Relatywistyka 
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Oddziaływania elektromagnetyczne
 - Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
@@ -42,12 +42,13 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 # Model Standardowy (FT2 2025)
 
 ## WYKŁADY
-- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](!/Files/FT2_MS_1.pdf)
+- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
+- Lagranżjany, Hamiltoniany i zasada najmniejszego działania [slajdy](/Files/FT2_MS_Lag_Ham.pdf)
+- Relatywistyka
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
-- Relatywistyka 
-- Lagrangiany i zasada najmniejszego działania [slajdy](!/Files/FT2_MS_4.pdf)
 - Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_6.pdf)
+- Neutrina
 - Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
 - Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
