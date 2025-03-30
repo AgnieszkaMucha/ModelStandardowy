@@ -21,7 +21,8 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 
 ## ĆWICZENIA
-- Relatywistyka i pola [Zadania](Files/Rel_pola.pdf)
+- Relatywistyka [Zadania](Files/FT1-SM_zad1.pdf)
+- Pola [Zadania](Files/FT1-SM_zad2.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 
 
