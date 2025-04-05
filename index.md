@@ -10,7 +10,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżjany 
-- Relatywistyka [slajdy](/Files/WMS_rel_zderzenia.pdf) 
+- Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia.pdf) 
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
