@@ -11,7 +11,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżjany 
 - Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia.pdf) 
-- Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
+- Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
 - Neutrina [slajdy](!/Files/Neutrina.pdf)
@@ -47,8 +47,8 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
 - Relatywistyka
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
-- Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
-- Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_6.pdf)
+- Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
+- Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_pole_elm.pdf)
 - Neutrina
 - Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
