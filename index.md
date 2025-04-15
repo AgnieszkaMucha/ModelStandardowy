@@ -48,8 +48,9 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Relatywistyka
 - Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_pole_elm.pdf)
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
+- Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
 - Neutrina
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
 - Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
 - Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
