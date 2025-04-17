@@ -21,8 +21,8 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 
 
 ## ĆWICZENIA
-- Relatywistyka [Zadania na 14.04](Files/FT1-SM_zad1.pdf)
-- Fermiony i oddziaływania elektromagnetyczne [Zadania](Files/FT1-SM_zad2.pdf)
+- Relatywistyka [Zadania na 14.04.25](Files/FT1-SM_zad1.pdf)
+- Fermiony i oddziaływania elektromagnetyczne [Zadania na 28.04.25](Files/FT1-SM_zad2.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 
 
