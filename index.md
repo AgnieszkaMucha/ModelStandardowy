@@ -12,7 +12,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Lagranżjany 
 - Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia.pdf) 
 - Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
-- Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
+- Równanie Diraca  [slajdy](/Files/Dirac_equation.pdf)
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Neutrina [slajdy](/Files/Neutrino_Lecture.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
@@ -50,7 +50,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_pole_elm.pdf)
 - Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
-- Neutrina
+- Neutrina [slajdy](/Files/Neutrino_Lecture.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_2.pdf)
 - Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
