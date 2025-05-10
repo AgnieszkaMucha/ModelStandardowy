@@ -14,10 +14,11 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
 - Równanie Diraca  [slajdy](!/Files/FT2_MS_5.pdf)
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
-- Neutrina [slajdy](!/Files/Neutrina.pdf)
+- Neutrina [slajdy](/Files/Neutrino_Lecture.pdf)
+- Multiplety [slajdy](/Files/MS1_multiplety.pdf)
 - Oscylacje zapachu [slajdy](!/Files/MS1_quarks_oscillation.pdf)
 - Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
-- Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
+
 
 
 ## ĆWICZENIA
