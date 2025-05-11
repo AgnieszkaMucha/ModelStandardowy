@@ -51,7 +51,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_pole_elm.pdf)
 - Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_Symetrie_Grupy.pdf)
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
 - Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
 - Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
