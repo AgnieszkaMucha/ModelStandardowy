@@ -24,7 +24,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 ## ĆWICZENIA
 - Relatywistyka [Zadania na 14.04.25](Files/FT1-SM_zad1.pdf)
 - Fermiony i oddziaływania elektromagnetyczne [Zadania na 28.04.25](Files/FT1-SM_zad2.pdf)
-- Rozważania o spinie i izospinie [Zadania na 19.05.25](Files/Spiny_MS3.pdf)
+- Rozważania o spinie i izospinie [Zadania na 26.05.25](Files/Spiny_MS3.pdf)
 
 
 ## Literatura:
@@ -52,7 +52,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
-- Oscylacje zapachu [slajdy](!/Files/FT2_MS_7.pdf)
+- Oscylacje zapachu [slajdy](/Files/FT2_MS_7.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
 - Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
 - Spontaniczne łamanie symetrii i bozon Higgsa
