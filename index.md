@@ -16,7 +16,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
-- Oscylacje zapachu [slajdy](!/Files/MS1_quarks_oscillation.pdf)
+- Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT1_MS_EW.pdf)
 - Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
 
 
