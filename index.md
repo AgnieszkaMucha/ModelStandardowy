@@ -54,7 +54,6 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT2_MS_EW.pdf)
 - Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
-- Oddziaływania elektrosłabe [slajdy](!/Files/FT2_MS_9.pdf)
 - Spontaniczne łamanie symetrii i bozon Higgsa
 - Precyzyjne pomiary Modelu Standardowego
 
