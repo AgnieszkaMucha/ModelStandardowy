@@ -13,10 +13,10 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia.pdf) 
 - Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
 - Równanie Diraca  [slajdy](/Files/Dirac_equation.pdf)
-- Obroty i grupa U(1) [slajdy](!/Files/WMS_3.pdf)
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT1_MS_EW.pdf)
+- Symetrie i grupy w MS [slajdy](/Files/FT1_MS_Symetrie.pdf)
 - Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
 
 
