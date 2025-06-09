@@ -16,7 +16,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
 - Multiplety [slajdy](/Files/MS1_multiplety.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT1_MS_EW.pdf)
-- Symetrie i grupy w MS [slajdy](/Files/FT1_MS_Symetrie.pdf)
+- Symetrie i grupy w MS [slajdy](/Files/FT1_MS_Symetrie_Grupy.pdf)
 - Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
 
 
