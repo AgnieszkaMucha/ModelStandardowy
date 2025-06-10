@@ -54,7 +54,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 - Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT2_MS_EW.pdf)
-- Oddziaływania silne [slajdy](!/Files/MS_QCD-notes.pdf)
+- Oddziaływania silne [slajdy](/Files/FT2_MS_strong.pdf) [notatki_QCD](/Files/MS_QCD-notes.pdf)
 - Spontaniczne łamanie symetrii i bozon Higgsa
 - Precyzyjne pomiary Modelu Standardowego
 
