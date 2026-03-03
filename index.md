@@ -3,7 +3,7 @@
 ### Wydział Fizyki i Informatyki Stosowanej
 
 # Hot news:
-Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event/1503585/timetable/#20250310.detailed). Szczególnie na sesje we wtorek 11.03. (D11/216).
+
 
 # Wstęp do Modelu Standardowego (FT1 2025) 
 
@@ -40,7 +40,7 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 # Model Standardowy (FT2 2026)
 
 ## WYKŁADY
-- Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
+- Co to jest *Model Standardowy*? [slajdy](/Files/FT2_MS_1.pdf)
 - Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](!/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
 - Relatywistyka
 - Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
