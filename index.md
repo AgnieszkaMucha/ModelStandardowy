@@ -8,54 +8,49 @@ Zapraszam na Third Hyperon Charm Workshop:  [adres](https://indico.cern.ch/event
 # Wstęp do Modelu Standardowego (FT1 2025) 
 
 ## WYKŁADY
-- O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
+- O czym tu będzie, czyli wstęp do wstępu [slajdy](!/Files/WMS_1.pdf) 
 - Lagranżjany 
-- Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia.pdf) 
-- Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
-- Równanie Diraca  [slajdy](/Files/Dirac_equation.pdf)
-- Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
-- Multiplety [slajdy](/Files/MS1_multiplety.pdf)
-- Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT1_MS_EW.pdf)
-- Symetrie i grupy w MS [slajdy](/Files/FT1_MS_Symetrie_Grupy.pdf)
-- Przekrój czynny [slajdy](!/Files/MS1_cross_section.pdf)
+- Relatywistyka, zderzenia, LHC [slajdy](!/Files/WMS_rel_zderzenia.pdf) 
+- Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
+- Równanie Diraca  [slajdy](/Files/!Dirac_equation.pdf)
+- Neutrina [slajdy](/Files/!Neutrino_Lecture_I.pdf)
+- Multiplety [slajdy](/Files/!MS1_multiplety.pdf)
+- Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](!/Files/FT1_MS_EW.pdf)
+- Symetrie i grupy w MS [slajdy](/Files/!FT1_MS_Symetrie_Grupy.pdf)
+- Przekrój czynny [slajdy](!/Files/!MS1_cross_section.pdf)
 
 
 
 ## ĆWICZENIA
-- Relatywistyka [Zadania na 14.04.25](Files/FT1-SM_zad1.pdf)
-- Fermiony i oddziaływania elektromagnetyczne [Zadania na 28.04.25](Files/FT1-SM_zad2.pdf)
-- Rozważania o spinie i izospinie [Zadania na 26.05.25](Files/Spiny_MS3.pdf)
-- Grupy [Zadania na 9.06.25](Files/FT1_zad4.pdf)
+- Relatywistyka [Zadania](Files/FT1-SM_zad1.pdf)
+- Fermiony i oddziaływania elektromagnetyczne [Zadania](Files/FT1-SM_zad2.pdf)
+- Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
+- Grupy [Zadania](Files/FT1_zad4.pdf)
 
 
 ## Literatura:
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
 - David Griffiths "Introduction to Elementary Particles", John Wiley & Sons 1987
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
-- B.R. Martin G.Shaw "Particle Physics", 3rd Ed, Wiley 2008
-- Sylvie Braibant, Giorgio Giacomelli, Maurizio Spurio "Particles and Fundamental Interactions: An Introduction to Particle Physics" 2011
-- Martinus Veltman "Facts and Mysteries in Elementary Particle Physics" World Scientific Publishing Co. Pte. Ltd. 2003
-- Matthew D. Schwartz "Quantum Field Theory and the Standard Model",
-- Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo "Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach",
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
 
 ## PROJEKT
 
 
-# Model Standardowy (FT2 2025)
+# Model Standardowy (FT2 2026)
 
 ## WYKŁADY
 - Czym różni się kurs *Model Standardowy* od kursu *Oddziaływania cząstek elementarnych*? [slajdy](/Files/FT2_MS_1.pdf)
-- Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
+- Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](!/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
 - Relatywistyka
-- Równanie Diraca [slajdy](/Files/FT2_MS_5.pdf)
-- Oddziaływania elektromagnetyczne [slajdy](/Files/FT2_MS_pole_elm.pdf)
+- Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
+- Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_pole_elm.pdf)
 - Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
-- Neutrina [slajdy](/Files/Neutrino_Lecture_I.pdf)
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
-- Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT2_MS_EW.pdf)
-- Oddziaływania silne [slajdy](/Files/FT2_MS_strong.pdf) [notatki_QCD](/Files/MS_QCD-notes.pdf)
-- Spontaniczne łamanie symetrii i bozon Higgsa  [slajdy](/Files/FT2_MS_EW_Higgs.pdf) 
+- Neutrina [slajdy](!/Files/Neutrino_Lecture_I.pdf)
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_Symetrie_Grupy.pdf)
+- Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](!/Files/FT2_MS_EW.pdf)
+- Oddziaływania silne [slajdy](/Files/FT2_MS_strong.pdf) [notatki_QCD](!/Files/MS_QCD-notes.pdf)
+- Spontaniczne łamanie symetrii i bozon Higgsa  [slajdy](!/Files/FT2_MS_EW_Higgs.pdf) 
   
 
   
