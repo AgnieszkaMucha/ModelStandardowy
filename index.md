@@ -8,7 +8,7 @@
 # Wstęp do Modelu Standardowego (FT1 2025) 
 
 ## WYKŁADY
-- O czym tu będzie, czyli wstęp do wstępu [slajdy](!/Files/WMS_1.pdf) 
+- O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżjany 
 - Relatywistyka, zderzenia, LHC [slajdy](!/Files/WMS_rel_zderzenia.pdf) 
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
