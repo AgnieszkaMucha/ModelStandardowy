@@ -3,10 +3,11 @@
 ### Wydział Fizyki i Informatyki Stosowanej
 
 # Hot news:
-Zapraszam na wyjątkowe spotkanie z badaczką, która odkrywa nieznane historie z życia Alberta Einsteina. Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 dr Pauline Gagnon, CERN wygłosi referat pt: "From Collaboration to Oblivion: The Tragedy of Mileva Maric Einstein"
+Zapraszam na wyjątkowe spotkanie z badaczką, która odkrywa nieznane historie z życia Alberta Einsteina.  
+Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 w sali A dr Pauline Gagnon, CERN, wygłosi referat pt: **"From Collaboration to Oblivion: The Tragedy of Mileva Maric Einstein"**
 
 
-# Wstęp do Modelu Standardowego (FT1 2025) 
+# Wstęp do Modelu Standardowego (FT1 2026) 
 
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
