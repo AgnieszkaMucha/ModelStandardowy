@@ -41,7 +41,7 @@
 
 ## WYKŁADY
 - Co to jest *Model Standardowy*? [slajdy](/Files/FT2_MS_1.pdf)
-- Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](!/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
+- Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](/Files/FT2_MS_3_Lagr_Ham_Schr.pdf)
 - Relatywistyka
 - Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_pole_elm.pdf)
