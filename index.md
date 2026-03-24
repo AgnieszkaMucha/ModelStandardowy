@@ -24,7 +24,7 @@ Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 w sali A dr Pauline G
 
 
 ## ĆWICZENIA
-- Relatywistyka [Zadania](Files/FT1-SM_zad1.pdf)
+- Relatywistyka [Zadania 27.03](Files/FT1-SM_zad1.pdf)
 - Fermiony i oddziaływania elektromagnetyczne [Zadania](Files/FT1-SM_zad2.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 - Grupy [Zadania](Files/FT1_zad4.pdf)
