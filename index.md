@@ -12,7 +12,7 @@ Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 w sali A dr Pauline G
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżjany 
-- Relatywistyka, zderzenia, LHC [slajdy](!/Files/WMS_rel_zderzenia.pdf) 
+- Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia_LHC_CERN.pdf) 
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
 - Równanie Diraca  [slajdy](/Files/!Dirac_equation.pdf)
 - Neutrina [slajdy](/Files/!Neutrino_Lecture_I.pdf)
