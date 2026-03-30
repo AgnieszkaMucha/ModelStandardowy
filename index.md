@@ -45,11 +45,12 @@ Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 w sali A dr Pauline G
 - Co to jest *Model Standardowy*? [slajdy](/Files/FT2_MS_1.pdf)
 - Lagranżjany, Hamiltoniany i zasada najmniejszego działania, równanie Schrodingera i Kleina-Gordona [slajdy](/Files/FT2_MS_2_Lagr_Ham_Schr.pdf)
 - Relatywistyka
+- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_Symetrie_Grupy.pdf)
 - Równanie Diraca [slajdy](!/Files/FT2_MS_5.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/FT2_MS_pole_elm.pdf)
 - Multiplety [slajdy](!/Files/MS1_multiplety.pdf)
 - Neutrina [slajdy](!/Files/Neutrino_Lecture_I.pdf)
-- Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](!/Files/FT2_MS_Symetrie_Grupy.pdf)
+
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](!/Files/FT2_MS_EW.pdf)
 - Oddziaływania silne [slajdy](/Files/FT2_MS_strong.pdf) [notatki_QCD](!/Files/MS_QCD-notes.pdf)
 - Spontaniczne łamanie symetrii i bozon Higgsa  [slajdy](!/Files/FT2_MS_EW_Higgs.pdf) 
