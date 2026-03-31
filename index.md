@@ -3,8 +3,8 @@
 ### Wydział Fizyki i Informatyki Stosowanej
 
 # Hot news:
-Zapraszam na wyjątkowe spotkanie z badaczką, która odkrywa nieznane historie z życia Alberta Einsteina.  
-Na seminarium wydziałowym w piątek 16 marca o godz. 9:45 w sali A dr Pauline Gagnon, CERN, wygłosi referat pt: **"From Collaboration to Oblivion: The Tragedy of Mileva Maric Einstein"**
+Zapraszam na wykład profesora wizytującego "A Practical Introduction to Multi-Messenger Astronomy", który odbędzie się we wtorek, 14 marca, w sali 328/D7 w godz. 8:30-13. 
+Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 
 
 # Wstęp do Modelu Standardowego (FT1 2026) 
@@ -104,7 +104,7 @@ HEP analyses usually require [ROOT framework](https://root.cern/).
 
 
 ### C++ or Py? This is the question...
-> Well, why not trying both? Below you can find example of the same analysis in ROOT in C++ and Python scenario [3]:
+> Well, why not trying both? Below you can find an example of the same analysis in ROOT in C++ and Python scenario [3]:
    - [ROOT C++](Files/Tutorial-ROOT.pdf)
    - [PyROOT](Files/Tutorial-PyROOT_2018.pdf)
 - Have a look at [PyROOT](https://root.cern/manual/python/) webpage.
