@@ -25,7 +25,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 
 ## ĆWICZENIA
 - Relatywistyka [Zadania 27.03.2026](Files/FT1-SM_zad1.pdf)
-- Fermiony i oddziaływania elektromagnetyczne [Zadania](Files/FT1-SM_zad2.pdf)
+- Zderzenia, równania [Zadania 24.04](Files/FT1-SM_zad2.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 - Grupy [Zadania](Files/FT1_zad4.pdf)
 
