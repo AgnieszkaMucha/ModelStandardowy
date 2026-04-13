@@ -3,7 +3,7 @@
 ### Wydział Fizyki i Informatyki Stosowanej
 
 # Hot news:
-Zapraszam na wykład profesora wizytującego "A Practical Introduction to Multi-Messenger Astronomy", który odbędzie się we wtorek, 14 marca, w sali 328/D7 w godz. 8:30-13. 
+Zapraszam na wykład profesora wizytującego "A Practical Introduction to Multi-Messenger Astronomy", który odbędzie się we wtorek, 14 marca, w sali 328/D7 w godz. 9-13. 
 Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 
 
