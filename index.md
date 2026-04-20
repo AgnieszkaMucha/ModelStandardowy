@@ -12,7 +12,8 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 ## WYKŁADY
 - O czym tu będzie, czyli wstęp do wstępu [slajdy](/Files/WMS_1.pdf) 
 - Lagranżjany 
-- Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia_LHC_CERN.pdf) 
+- Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia_LHC_CERN.pdf)
+- Technologia akceleratorów (Krzysztof Kawa)  [slajdy](/Files/Technologia_akceleratorów.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
 - Równanie Diraca  [slajdy](/Files/!Dirac_equation.pdf)
 - Neutrina [slajdy](/Files/!Neutrino_Lecture_I.pdf)
