@@ -14,7 +14,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Relatywistyka, zderzenia, LHC [slajdy](/Files/WMS_rel_zderzenia_LHC_CERN.pdf)
 - Technologia akceleratorów (Krzysztof Kawa)  [slajdy](/Files/Technologia_akceleratorow.pdf)
 - Lagranżjany [slajdy](/Files/WMS_Lagr_Schr.pdf)
-- Oddziaływania elektromagnetyczne [slajdy](!/Files/WMS_pole_elm.pdf)
+- Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
 - Równanie Diraca  [slajdy](/Files/!Dirac_equation.pdf)
 - Multiplety [slajdy](/Files/!MS1_multiplety.pdf)
 - Neutrina [slajdy](/Files/!Neutrino_Lecture_I.pdf)
@@ -30,6 +30,9 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
 - Grupy [Zadania](Files/FT1_zad4.pdf)
 
+## PROJEKT
+- Wyznaczenie przekroju czynnego na produkcję par mionów w procesie: e+ e- -> Z^0-> mu+ mu-
+- Narzędzia - program ROOT
 
 ## Literatura:
 - W. N. Cottingham,  D. A. Greenwood "An Introduction to the Standard Model of Particle Physics",
@@ -37,7 +40,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Mark Thomson "Modern Particle Physics", University of Cambridge, 2013 [online resources](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Alessandro Bettini “Introduction to Elementary Particle Physics”  Cambridge University Press, 2014
 
-## PROJEKT
+
 
 
 # Model Standardowy (FT2 2026)
