@@ -31,7 +31,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Grupy [Zadania](Files/FT1_zad4.pdf)
 
 ## PROJEKT
-- Wyznaczenie przekroju czynnego na produkcję par mionów w procesie: e+ e- -> Z^0-> mu+ mu-
+- Wyznaczenie przekroju czynnego na produkcję par mionów w procesie: e+ e- -> Z0-> mu+ mu-
 - Narzędzia - program ROOT
 
 ## Literatura:
