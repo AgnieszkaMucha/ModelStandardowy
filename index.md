@@ -15,7 +15,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Technologia akceleratorów (Krzysztof Kawa)  [slajdy](/Files/Technologia_akceleratorow.pdf)
 - Lagranżjany [slajdy](/Files/WMS_Lagr_Schr.pdf)
 - Oddziaływania elektromagnetyczne [slajdy](/Files/WMS_pole_elm.pdf)
-- Równanie Diraca  [slajdy](/Files/!Dirac_equation.pdf)
+- Równanie Diraca  [slajdy](/Files/WMS_Dirac.pdf)
 - Multiplety [slajdy](/Files/!MS1_multiplety.pdf)
 - Neutrina [slajdy](/Files/!Neutrino_Lecture_I.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](!/Files/FT1_MS_EW.pdf)
