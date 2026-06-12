@@ -55,8 +55,8 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Neutrina [slajdy](/Files/Astronomical_Neutrinos.pdf)
 - Grupy i symetrie w fizyce (zwłaszcza cząstek elementarnych) [slajdy](/Files/FT2_MS_3_Symetrie_Grupy.pdf)
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT2_MS_EW-2026.pdf)
-- Oddziaływania silne [slajdy](/Files/FT2_MS_strong.pdf) [notatki_QCD](!/Files/MS_QCD-notes.pdf)
-- Spontaniczne łamanie symetrii i bozon Higgsa  [slajdy](!/Files/FT2_MS_EW_Higgs.pdf) 
+- Oddziaływania silne  [notatki](https://home.agh.edu.pl/~khanpour/teaching/standard-model.html)
+- Spontaniczne łamanie symetrii i bozon Higgsa  [notatki](https://home.agh.edu.pl/~khanpour/teaching/standard-model.html)
   
 
   
