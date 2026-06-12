@@ -23,6 +23,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 <!--
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](!/Files/FT1_MS_EW.pdf)
 - Przekrój czynny [slajdy](!/Files/!MS1_cross_section.pdf)
+- Grupy [Zadania](Files/FT1_zad4.pdf)
 -->
 
 
@@ -30,7 +31,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Relatywistyka [Zadania 27.03.2026](Files/FT1-SM_zad1.pdf)
 - Zderzenia, równania [Zadania 24.04.2026](Files/FT1-SM_zad2.pdf)
 - Rozważania o spinie i izospinie [Zadania](Files/Spiny_MS3.pdf)
-- Grupy [Zadania](Files/FT1_zad4.pdf)
+
 
 ## PROJEKT
 - Wyznaczenie przekroju czynnego na produkcję par mionów w procesie: e+ e- -> Z0-> mu+ mu-
