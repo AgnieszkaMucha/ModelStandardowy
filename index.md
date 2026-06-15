@@ -57,6 +57,7 @@ Studenci FT 2 odbywają te zajęcia w ramach wykładu z 13 marca.
 - Oddziaływania elektrosłabe i oscylacje zapachu [slajdy](/Files/FT2_MS_EW-2026.pdf)
 - Oddziaływania silne  [notatki](https://home.agh.edu.pl/~khanpour/teaching/standard-model.html)
 - Spontaniczne łamanie symetrii i bozon Higgsa  [notatki](https://home.agh.edu.pl/~khanpour/teaching/standard-model.html)
+- Poza Modelem Standardowym [slajdy](/Files/BSM_Banomalies.pdf)
   
 
   
